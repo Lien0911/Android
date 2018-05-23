@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="station_title">Station Name:</string>
+    <string name="station_no">Station No:</string>
+</resources>

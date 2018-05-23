@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="station_title">站點</string>
+    <string name="station_no">編號</string>
+</resources>
